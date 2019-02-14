@@ -8,3 +8,13 @@ Now I like to learn C# and programming. Of course, there are still a lot of thin
 ### My interests
 
 Most of the time is spent studying, but I like a lot. I do not have several hobbies at the same time. Now I mainly study programming. I used to be fond of music, played musical instruments and worked with musical programs. Was engaged in various sports, Vietnamese martial art. Took part in concerts and all kinds of events.
+
+### Padawans
+
+https://github.com/egor-sudko/FancyCalc
+
+https://github.com/egor-sudko/PadawansTask1
+
+https://github.com/egor-sudko/PadawansTask2
+
+https://github.com/egor-sudko/PadawansTask3
