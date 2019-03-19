@@ -18,3 +18,7 @@ https://github.com/egor-sudko/PadawansTask1
 https://github.com/egor-sudko/PadawansTask2
 
 https://github.com/egor-sudko/PadawansTask3
+
+### Codewars
+
+https://www.codewars.com/users/Egor_S
